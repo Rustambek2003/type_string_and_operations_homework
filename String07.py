@@ -6,6 +6,5 @@ def main():
     Returns:
         str: return answer.
     """
-    a = 'codeshool'
-    return 
+    return ''
 print(main())
