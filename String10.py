@@ -9,4 +9,3 @@ def main(x,y):
     """
     ans = '"('+str(x)+'+'+str(y)+')*2='+str((x+y)*2)+'"'
     return ans
-print(main(4,6))
